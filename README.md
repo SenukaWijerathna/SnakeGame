@@ -1,4 +1,4 @@
-<h1 style="text-align:center; color:#78C3FF;">🐍 Console Snake Game</h1>
+<h1 style="align:center; color:#78C3FF;">🐍 Console Snake Game</h1>
 
 This is a feature-rich implementation of the classic Snake Game with a <span style="color:#FF00FF;">**Text-based User Interface (TUI)**</span> written in <span style="color:#AFB3ED;">**C++**</span>.
 
